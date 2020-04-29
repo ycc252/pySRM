@@ -1,0 +1,1 @@
+pySRM, a Python package for the segmented regression model
